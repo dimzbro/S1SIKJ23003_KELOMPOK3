@@ -3,6 +3,7 @@
 @section('title', 'Login')
 
 @section('content')
+<div></div>
 
     <!-- Container Utama: flex-col untuk mobile, flex-row untuk desktop -->
     <div class="bg-white rounded-2xl shadow-2xl overflow-hidden w-full max-w-6xl flex flex-col md:flex-row">
